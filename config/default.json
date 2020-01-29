@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "sarik live please o my gad",
+	"mongoUri": "mongodb+srv://zhenya:taLati100@cluster0-crcqo.azure.mongodb.net/app?retryWrites=true&w=majority",
+	"baseUrl": "http://localhost:5000"
+}
